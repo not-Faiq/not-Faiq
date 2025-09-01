@@ -17,7 +17,7 @@ My background in education fuels my passion for clear communication and structur
 
 ## 🛠️ Tech Stack
 
--   **Development:** `Java` `XML` `Android SDK` `Python` `Dart` `Git`
+-   **Development:** `Java` `XML` `Android SDK` `Python` `Dart` `Git` `MySQL` `C++`
 -   **Design & Media:** `Figma` `Adobe Premiere Pro` `Adobe After Effects` `Wondershare Filmora` `Blender`
 
 <div align="center">
