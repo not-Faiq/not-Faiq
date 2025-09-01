@@ -8,7 +8,7 @@
 
 I'm a multidisciplinary creator passionate about building intuitive and engaging digital experiences. I bridge the gap between design and development, focusing on:
 
--   **🤖 Android Development:** Building mobile apps with Kotlin and Jetpack Compose.
+-   **🤖 Android Development:** Building mobile apps with Android Studio.
 -   **🎨 UX/UI Design:** Designing user-centered interfaces in Figma.
 -   **🎥 Video Editing:** Creating compelling visual content to tell a project's story.
 -   **🧠 Continuous Learning:** Currently exploring AI integration and advanced Android concepts.
